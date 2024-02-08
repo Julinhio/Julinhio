@@ -2,7 +2,7 @@
 - 👀 I’m want to merge Linguistics and Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on challenges, practice, and so on.
-- 📫 How to reach me ...
+- 📫 Reach me on Discord (julinh.io)
 - 📍 Living in Asia 🇻🇳 🇹🇭
 - ⚡ Hobbies: Boxing & CrossFit
 
