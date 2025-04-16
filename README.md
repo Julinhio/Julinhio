@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julinhio or Julien 🇫🇷
-- 👀 I’m want to merge Linguistics and Web Development
-- ⚛️ I’m currently learning JavaScript
-- 💻 I’m looking to collaborate on challenges, practice, and so on.
+- 👀 I’m want to merge Linguistics and Automations
+- ⚛️ I’m currently working on AI-enhanced automations (Make.com)
+- 💻 I’m looking to collaborate on real word cases, practice, and so on.
 - 📫 Reach me on Discord (julinh.io)
 - 📍 Living in Asia 🇻🇳 🇹🇭
 - 🏋🏻 Hobbies: Boxing & CrossFit
